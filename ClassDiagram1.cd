@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Generics.Circle">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Circle.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generics.Employee" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAgIAAQAIFEAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Generics.EmployeeCollection" Collapsed="true">
+    <Position X="4.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAABAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmployeeCollection.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generics.IntCollection" Collapsed="true">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAABAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IntCollection.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generics.Shape">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAgAAAQAAAEAAAQAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Shape.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Generics.Square">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAQAAAAA=</HashCode>
+      <FileName>Square.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generics.My.MySettings" Collapsed="true">
+    <Position X="6.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Generics.IXmlExport">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IXmlExport.vb</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Module Name="Generics.Module1" Collapsed="true">
+    <Position X="2.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Module1.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Generics.My.Resources.Resources" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Generics.My.MySettingsProperty" Collapsed="true">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

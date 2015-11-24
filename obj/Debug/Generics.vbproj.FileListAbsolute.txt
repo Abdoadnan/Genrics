@@ -1,0 +1,46 @@
+c:\users\robwindsor\documents\visual studio 2013\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\RobWindsor\documents\visual studio 2013\Projects\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\RobWindsor\documents\visual studio 2013\Projects\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\RobWindsor\documents\visual studio 2013\Projects\Generics\Generics\bin\Debug\Generics.xml
+C:\Users\RobWindsor\documents\visual studio 2013\Projects\Generics\Generics\obj\Debug\Generics.Resources.resources
+C:\Users\RobWindsor\documents\visual studio 2013\Projects\Generics\Generics\obj\Debug\Generics.vbproj.GenerateResource.Cache
+C:\Users\RobWindsor\documents\visual studio 2013\Projects\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\RobWindsor\documents\visual studio 2013\Projects\Generics\Generics\obj\Debug\Generics.xml
+C:\Users\RobWindsor\documents\visual studio 2013\Projects\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Start\Generics\bin\Debug\Generics.exe.config
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Start\Generics\obj\Debug\Generics.exe
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Start\Generics\obj\Debug\Generics.xml
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Start\Generics\obj\Debug\Generics.pdb
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Start\Generics\obj\Debug\Generics.Resources.resources
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Start\Generics\obj\Debug\Generics.vbproj.GenerateResource.Cache
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Start\Generics\bin\Debug\Generics.exe
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Start\Generics\bin\Debug\Generics.pdb
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Start\Generics\bin\Debug\Generics.xml
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Generics\bin\Debug\Generics.exe.config
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Generics\obj\Debug\Generics.exe
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Generics\obj\Debug\Generics.xml
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Generics\obj\Debug\Generics.pdb
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Generics\bin\Debug\Generics.exe
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Generics\bin\Debug\Generics.pdb
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Generics\bin\Debug\Generics.xml
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Generics\obj\Debug\Generics.Resources.resources
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\01.Introduction\Demos\01.ArrayList\Generics\obj\Debug\Generics.vbproj.GenerateResource.Cache
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\02.BuiltInGenerics\Demos\00.Start\Generics\bin\Debug\Generics.exe.config
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\02.BuiltInGenerics\Demos\00.Start\Generics\obj\Debug\Generics.exe
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\02.BuiltInGenerics\Demos\00.Start\Generics\obj\Debug\Generics.xml
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\02.BuiltInGenerics\Demos\00.Start\Generics\obj\Debug\Generics.pdb
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\02.BuiltInGenerics\Demos\00.Start\Generics\bin\Debug\Generics.exe
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\02.BuiltInGenerics\Demos\00.Start\Generics\bin\Debug\Generics.pdb
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\02.BuiltInGenerics\Demos\00.Start\Generics\bin\Debug\Generics.xml
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\02.BuiltInGenerics\Demos\00.Start\Generics\obj\Debug\Generics.Resources.resources
+C:\Users\RobWindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Generics\Materials\02.BuiltInGenerics\Demos\00.Start\Generics\obj\Debug\Generics.vbproj.GenerateResource.Cache
+F:\00.Start\Generics\bin\Debug\Generics.exe.config
+F:\00.Start\Generics\obj\Debug\Generics.exe
+F:\00.Start\Generics\obj\Debug\Generics.xml
+F:\00.Start\Generics\obj\Debug\Generics.pdb
+F:\00.Start\Generics\bin\Debug\Generics.exe
+F:\00.Start\Generics\bin\Debug\Generics.pdb
+F:\00.Start\Generics\bin\Debug\Generics.xml
+F:\00.Start\Generics\obj\Debug\Generics.vbprojResolveAssemblyReference.cache
+F:\00.Start\Generics\obj\Debug\Generics.Resources.resources
+F:\00.Start\Generics\obj\Debug\Generics.vbproj.GenerateResource.Cache
